@@ -17,21 +17,21 @@ export default function NeuralMixPage() {
           title="03 / RECIPE"
           subtitle="Neural Mix — Fresh Model"
           ingredients={[
-            'Sale marino',
-            'Limone',
-            'Rosmarino',
+            'Sale grosso',
+            'Pepe timut',
             'Pepe rosa',
+            'Basilico secco',
           ]}
           usageTips={[
-            'Su patate al forno',
-            'Carne o pesce grigliato',
-            'Verdure saltate',
+            'Sale di finishing su carne e pesce',
+            'Salamoia per pollo (2–3 cucchiai/L acqua)',
+            'Una presa su patate e verdure al forno',
           ]}
         />
 
         <MiniRecipe
-          title="Patate al forno con rosmarino & pepe rosa"
-          description="Taglia le patate a spicchi, condiscile con olio, sale marino, pepe rosa schiacciato, rosmarino fresco e scorza di limone grattugiata. Cuoci in forno a 200C per 35-40 minuti girando a meta cottura. Prima di servire, spremi qualche goccia di limone fresco. Un modello fresco e bilanciato."
+          title="Patate al forno con Neural Mix"
+          description="Taglia le patate a spicchi, condiscile solo con olio extravergine e cuoci a 200°C per 35–40 minuti, girando a metà cottura. A fine cottura, cospargi con una leggera presa di Neural Mix: il mix è già salato, usa con parsimonia. Pepe timut e rosa donano note agrumate e delicate."
         />
 
         <motion.footer

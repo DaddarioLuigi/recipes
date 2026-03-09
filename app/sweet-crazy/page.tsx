@@ -17,21 +17,21 @@ export default function SweetCrazyPage() {
           title="01 / RECIPE"
           subtitle="Sweet & Crazy — Unexpected Output"
           ingredients={[
-            'Fiocchi di sale',
-            'Zucchero di canna',
-            'Cacao',
-            'Peperoncino',
+            'Sale',
+            'Prezzemolo',
+            'Basilico',
+            'Peperoncino di Cayenna',
           ]}
           usageTips={[
-            'Carne alla griglia',
-            'Fragole',
-            'Cioccolato fondente',
+            'Crust su bistecca e carne alla griglia',
+            'Finishing su pasta e risotti',
+            'Come sale aromatizzato su verdure',
           ]}
         />
 
         <MiniRecipe
-          title="Fragole al pepe & cacao"
-          description="Lavate le fragole e tagliatele a meta. In una ciotola, mescola un pizzico di peperoncino, un cucchiaino di cacao amaro e un po' di zucchero di canna. Cospargi il mix sulle fragole, aggiungi fiocchi di sale e lascia riposare 10 minuti prima di servire. Perfetto come dessert inatteso."
+          title="Bistecca con Sweet & Crazy"
+          description="Il mix è già pronto: usa Sweet & Crazy come sale aromatizzato. Ungi la carne con olio, cospargi con una moderata presa su entrambi i lati (è salato, non esagerare) e lascia riposare 15–20 minuti. Griglia a fuoco vivo. Prezzemolo, basilico e Cayenna creano un output inatteso e memorabile."
         />
 
         <motion.footer

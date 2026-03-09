@@ -17,22 +17,22 @@ export default function PastaOptimizationPage() {
           title="02 / RECIPE"
           subtitle="Pasta Optimization v1.0"
           ingredients={[
-            'Pomodoro secco',
-            'Aglio',
-            'Basilico',
-            'Prezzemolo',
+            'Sale grosso',
+            'Zucchero di canna',
+            'Cannella',
+            'Cacao',
             'Peperoncino',
           ]}
           usageTips={[
-            'Pasta veloce',
-            'Bruschette',
-            'Verdure in padella',
+            'Salamoia per maiale o pollo (2–3 cucchiai/L acqua)',
+            'Finishing su pasta al burro',
+            'Una presa su dessert e frutta',
           ]}
         />
 
         <MiniRecipe
-          title="Spaghetti aglio, pomodoro secco & basilico"
-          description="Cuoci gli spaghetti al dente. In padella, scalda olio con aglio affettato finche dorato, aggiungi i pomodori secchi a pezzetti e il peperoncino. Unisci la pasta scolata con poca acqua di cottura, manteca a fuoco alto e finisci con basilico fresco e prezzemolo tritato. Semplice, veloce, ottimizzato."
+          title="Salamoia per maiale con Pasta Optimization"
+          description="Sciogli 2–3 cucchiai di Pasta Optimization in 1 L di acqua fredda. Immergi la carne (lonza, coscia) e lascia in frigorifero 4–6 ore. Asciuga, asciuga bene e cuoci in forno o in padella. Sale e zucchero penetrano, cannella e cacao donano un profilo dolce-speziato. Ottimizzato per chi ama osare."
         />
 
         <motion.footer
