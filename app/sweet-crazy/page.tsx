@@ -18,20 +18,21 @@ export default function SweetCrazyPage() {
           subtitle="Sweet & Crazy — Unexpected Output"
           ingredients={[
             'Sale',
-            'Prezzemolo',
-            'Basilico',
+            'Zucchero di canna',
+            'Cannella',
+            'Cacao',
             'Peperoncino di Cayenna',
           ]}
           usageTips={[
-            'Crust su bistecca e carne alla griglia',
-            'Finishing su pasta e risotti',
-            'Come sale aromatizzato su verdure',
+            'Salamoia per maiale o pollo (2–3 cucchiai/L acqua)',
+            'Finishing su pasta al burro',
+            'Una presa su dessert e frutta',
           ]}
         />
 
         <MiniRecipe
-          title="Bistecca con Sweet & Crazy"
-          description="Il mix è già pronto: usa Sweet & Crazy come sale aromatizzato. Ungi la carne con olio, cospargi con una moderata presa su entrambi i lati (è salato, non esagerare) e lascia riposare 15–20 minuti. Griglia a fuoco vivo. Prezzemolo, basilico e Cayenna creano un output inatteso e memorabile."
+          title="Salamoia per maiale con Sweet & Crazy"
+          description="Sciogli 2–3 cucchiai di Sweet & Crazy in 1 L di acqua fredda. Immergi la carne (lonza, coscia) e lascia in frigorifero 4–6 ore. Asciuga, asciuga bene e cuoci in forno o in padella. Sale e zucchero penetrano, cannella e cacao donano un profilo dolce-speziato. Ottimizzato per chi ama osare."
         />
 
         <motion.footer
