@@ -17,7 +17,7 @@ export default function NeuralMixPage() {
           title="03 / RECIPE"
           subtitle="Neural Mix — Fresh Model"
           ingredients={[
-            'Sale grosso',
+            'Sale grosso[1]',
             'Pepe timut',
             'Pepe rosa',
             'Basilico secco',
